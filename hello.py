@@ -1,1 +1,1 @@
-print("Привет,Константин! все работает")
+print("Hello, Constantine! Everything works!")
